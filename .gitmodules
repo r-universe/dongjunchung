@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dpeak"]
+	path = dpeak
+	url = https://github.com/dongjunchung/dpeak
+	shallow = true
+	registered = true
 [submodule "GGPA"]
 	path = GGPA
 	url = https://github.com/dongjunchung/ggpa
@@ -11,10 +16,5 @@
 [submodule "GPA"]
 	path = GPA
 	url = https://github.com/dongjunchung/gpa
-	shallow = true
-	registered = true
-[submodule "dpeak"]
-	path = dpeak
-	url = https://github.com/dongjunchung/dpeak
 	shallow = true
 	registered = true

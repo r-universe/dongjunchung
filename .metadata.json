@@ -1,11 +1,11 @@
 [
   {
+    "package": "dpeak"
+  },
+  {
     "package": "GGPA"
   },
   {
     "package": "GPA"
-  },
-  {
-    "package": "dpeak"
   }
 ]
