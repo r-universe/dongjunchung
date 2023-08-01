@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dpeak"]
-	path = dpeak
-	url = https://github.com/dongjunchung/dpeak
 [submodule "GGPA"]
 	path = GGPA
 	url = https://github.com/dongjunchung/ggpa
 [submodule "GPA"]
 	path = GPA
 	url = https://github.com/dongjunchung/gpa
+[submodule "dpeak"]
+	path = dpeak
+	url = https://github.com/dongjunchung/dpeak
